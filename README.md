@@ -20,7 +20,7 @@ I am not a traditional corporate engineer. I’ve transitioned from copywriting 
 I believe that those with the least resources need the best information.
 
 ## 💻 Tech Stack:
-- **Backend:** Google Cloud Platform (GCP), Cloud Run, Cloud Functions (Node.js/Python), Firestore.
+- **Backend:** Google Cloud Platform (GCP), Cloud Run, Cloud Functions (Node.js), Firestore.
 - **Frontend:** Flutter & Dart (Web & Mobile).
 - **AI/ML:** LLM Orchestration, Prompt Engineering (Vertex AI/Gemini), Agentic Pipelines.
 
