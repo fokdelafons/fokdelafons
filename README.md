@@ -2,14 +2,14 @@
 
 ### Solo Architect & Founder of [Lustra.news](https://lustra.news)
 
-I am a self-taught developer and solo founder building **Digital Public Infrastructure**. My mission is to bridge the "Accessibility Gap" between citizens and the law. I don't believe in petitions; I believe in data-driven transparency.
+I am a self-taught developer and solo founder of **Digital Public Infrastructure** (Mirror Parliament Lustra). My mission is to bridge the "Accessibility Gap" between citizens and the law. I don't believe in petitions; I believe in data-driven transparency.
 I don't have a traditional academic background or VC funding. I have a laptop and mission.
 
 ---
 
 ## 🛠 What I’m Building
 **[Lustra.news](https://lustra.news)**: A civic-tech infrastructure designed to dismantle narrative monopolies. 
-I am building a **Mirror Parliament** where legislation is decoded by AI into sterile, verifiable facts, and citizens reclaim their agency through decentralized voting.
+This is a **Mirror Parliament** where legislation is decoded by AI into sterile, verifiable facts, and citizens reclaim their agency through decentralized voting.
 
 ## 📜 My Story
 Before, I was working cleaning jobs. I taught myself cloud architecture and LLM orchestration. 
